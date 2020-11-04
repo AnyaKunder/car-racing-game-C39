@@ -37,6 +37,7 @@ this.resetButton.mousePressed(()=>{
 player.updateCount(0)
 game.update(0)
 Player.deletePlayers()
+player.updateCarsAtEnd(0)
 });
 
 
